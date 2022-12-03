@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497368704509",
+    "project_id": "wit-interview",
+    "storage_bucket": "wit-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497368704509:android:cb87518c5e95141a6f6594",
+        "android_client_info": {
+          "package_name": "com.example.wit_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497368704509-7l3kcjg5ice24c8jbhcqqvdo6kest8b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBInfN5pdm6T59Fth7WlY5ulgyxOvVXZDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497368704509-7l3kcjg5ice24c8jbhcqqvdo6kest8b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
